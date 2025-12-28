@@ -1,4 +1,4 @@
-# Magnolia Blossom ❀ - Algorithm Template
+# Magnolia Blossom 🌸 - Algorithm Template
 
 This repository contains the ACM/ICPC algorithm template library used by the **Shanghai University** team **"Magnolia Blossom"**.
 
@@ -17,13 +17,13 @@ Using this template, our team has achieved the following results:
 
 ---
 
-## 📖 Introduction
+## 📖 Introduction / 介绍
 
 The Shanghai University team, "Magnolia Blossom," used this ACM algorithm template during our training and contests. We hope this collection helps other competitive programmers.
 
 上海大学 "Magnolia Blossom" 队在训练和比赛中使用了此算法模板。希望这份代码整理能对其他算法竞赛选手有所帮助。
 
-## ⚖️ License
+## ⚖️ License / 内容许可
 
 Strictly for educational purposes.
 
